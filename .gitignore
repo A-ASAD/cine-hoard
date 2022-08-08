@@ -1,0 +1,10 @@
+
+cine_hoard/
+__pycache__
+db.sqlite3
+!migrations/__init__.py
+.DS_Store
+.env
+cron.log
+debug.log
+private.py
